@@ -1,2 +1,3 @@
-consolo.log (Hola mundo DevOps);
-consile.log ("Funcion de login simple");
+consolo.log ("Hola mundo DevOps");
+console.log ("Nueva funcion de login");
+console.log ("prueba hooks");
