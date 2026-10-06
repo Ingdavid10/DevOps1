@@ -1,1 +1,2 @@
-consolo.log (Hola mundo DevOps);
+consolo.log ("Hola mundo DevOps");
+console.log ("Nueva funcion de login");
